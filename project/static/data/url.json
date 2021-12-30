@@ -1,0 +1,4 @@
+[
+    {"url": "https://stackoverflow.com", "proxy": "http://user:password@proxyparfil:8080"},
+    {"url": "https://stackoverflow.com"}
+]
